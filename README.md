@@ -9,9 +9,9 @@
 
 ### <p align="center"> Connect with me:
 
-<p align="center">[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<p align="center">[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<p align="center">[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">[<img align="center" alt="codeSTACKr.com" width="22px" src="https://vnkt777.nicepage.io" />][website]
+<p align="center">[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://linkedin.com/in/vnkt777" />][linkedin]
+<p align="center">[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://instagram.com/venkatnarayan.g" />][instagram]
 
 <br />
 
