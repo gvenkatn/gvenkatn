@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello World!
+## I'm Venkat Narayan Gnanaguruparan 👋
+## Developer by Day🌅 || Engineer by Night 🌇
 
-<!--
-**VNKT777/VNKT777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Electronics and Communications Engineering in NIT Warangal 
+- 👯 I'm looking to collaborate and discuss tech trends. 
+- 🎯 2021 Goals: Contribute more to Open Source projects
+- ☕ Coffee with Kernels. -_-
 
-Here are some ideas to get you started:
+</br>
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: https://vnkt777.nicepage.io
+[instagram]: https://instagram.com/venkatnarayan.g
+[linkedin]: https://linkedin.com/in/vnkt777
