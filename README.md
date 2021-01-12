@@ -52,13 +52,6 @@
   <use class="wave2" href="#sineWave" />
   <use class="wave2" x="-100%" href="#sineWave" />
 </svg>
-body {
-  margin: 0;
-}
-
-svg {
-  width: 100%;
-}
 
 # <p align="center">  Hello World! 
 ## <p align="center"> I'm Venkat Narayan Gnanaguruparan 👋
