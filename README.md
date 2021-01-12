@@ -1,4 +1,4 @@
-# <center>  Hello World! </center>
+# <p align="center">  Hello World! </p>
 ## I'm Venkat Narayan Gnanaguruparan 👋
 ## Developer by Day🌅 || Engineer by Night 🌇
 
