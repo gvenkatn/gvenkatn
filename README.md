@@ -1,7 +1,7 @@
-# <p align="center">  Hello World! </p>
+# <p align="center">  Hello World! 
 ## I'm Venkat Narayan Gnanaguruparan 👋
 ## Developer by Day🌅 || Engineer by Night 🌇
-
+</p>
 - 🌱 I’m currently learning Electronics and Communications Engineering in NIT Warangal 
 - 👯 I'm looking to collaborate and discuss tech trends. 
 - 🎯 2021 Goals: Contribute more to Open Source projects
