@@ -4,7 +4,7 @@
 ## <p align="center"> I'm Venkat Narayan Gnanaguruparan 
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
 
-- 🌱 I’m currently learning Electronics and Communications Engineering in NIT Warangal 
+- 🎓 I’m currently learning Electronics and Communications Engineering in NIT Warangal 
 - 👯 I'm looking to collaborate and discuss tech trends. 
 - 🎯 2021 Goals: Contribute more to Open Source projects
 - ☕ Coffee with Kernels. -_-
