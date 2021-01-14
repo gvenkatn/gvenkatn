@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently learning Electronics and Communications Engineering in NIT Warangal 
 - 👯 I'm looking to collaborate and discuss tech trends. 
-- 🎯 2021 Goals: Contribute more to Open Source projects
+- 🎯 2021 Goals: Contribute to atleast 20 Open Source projects.
 - ☕ Coffee with Kernels. -_-
 
 
