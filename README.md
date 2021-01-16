@@ -3,12 +3,12 @@
 # <p align="center">  Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## <p align="center"> I'm Venkat Narayan Gnanaguruparan 
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
+<p align="center"> <img src="exp gif.gif" width="440" >
 
 - 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
 - 👯 I'm looking to collaborate and discuss tech trends. 
 - 🎯 2021 Goals: Contribute more to Open Source projects than 2020.
 - ☕ Coffee with Kernels. -_-
-- <img src="exp gif.gif"  width="250px">
 
 ### Connect with me:
 
