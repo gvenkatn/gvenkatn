@@ -21,4 +21,4 @@
 
 [website]: https://vnkt777.nicepage.io
 [instagram]: https://instagram.com/venkatnarayan.g
-[linkedin]: https://linkedin.com/in/vnkt77
+[linkedin]: https://linkedin.com/in/vnkt777
