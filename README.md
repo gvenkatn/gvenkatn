@@ -6,7 +6,7 @@
 <p align="center"> <img src="exp1font.gif" width="350" >
 
 - 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
-- 👯 I'm looking to collaborate and discuss exciting tech. 
+- 🤝 I'm looking to collaborate and discuss exciting tech. 
 - 🎯 2021 Goals: Contribute more to Open Source projects than 2020.
 - ☕ Coffee with Kernels. -_-
 
