@@ -3,7 +3,7 @@
 # <p align="center">  Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## <p align="center"> I'm Venkat Narayan Gnanaguruparan 
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
-<p align="center"> <img src="exp1.gif" width="350" >
+<p align="center"> <img src="exp1font.gif" width="350" >
 
 - 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
 - 👯 I'm looking to collaborate and discuss exciting tech. 
