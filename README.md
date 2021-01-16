@@ -8,7 +8,7 @@
 - 👯 I'm looking to collaborate and discuss tech trends. 
 - 🎯 2021 Goals: Contribute more to Open Source projects than 2020.
 - ☕ Coffee with Kernels. -_-
-
+- <img src="exp gif.gif"  width="250px">
 
 ### Connect with me:
 
