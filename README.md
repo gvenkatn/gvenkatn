@@ -8,9 +8,9 @@
 - 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
 - 🤝 I'm looking to collaborate and discuss exciting tech. 
 - 🎯 2021 Goals: Contribute more to Open Source projects than 2020.
-- ☕ Coffee with Kernels. -_-
+- ☕ Coffee with Kernels. (-_-)
 
-### Connect with me:
+### Connect with me: 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
