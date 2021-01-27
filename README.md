@@ -9,7 +9,7 @@
 - 🤝 I'm looking to collaborate and discuss exciting tech. 
 - 🎯 2021 Goals: Contribute more to Open Source projects than 2020.
 - ☕ Coffee with Kernels. (-_-)
-- <img src="Arsenal.png" width="20px"> Fan of Arsenal F.C 
+- <img src="Arsenal.png" width="20px"> Football/Soccer
 
 ### Connect with me: 
 
