@@ -1,4 +1,4 @@
-<p align = "center"> <a href="https://vnkt777.nicepage.io"><img src="VNG2.gif" width="170px"></a>
+<p align = "center"> <a href="https://vnkt777.nicepage.io"><img src="VNG.gif" width="170px"></a>
 
 # <p align="center">  Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## <p align="center"> I'm Venkat Narayan Gnanaguruparan 
