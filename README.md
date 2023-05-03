@@ -22,7 +22,7 @@
 
 
 [website]: https://vnkt777.nicepage.io
-[instagram]: https://instagram.com/venkatnarayan.g
+[instagram]: https://instagram.com/gvenkatnarayan
 [linkedin]: https://linkedin.com/in/vnkt777
 </br>
 ![](https://komarev.com/ghpvc/?username=VNKT777)
