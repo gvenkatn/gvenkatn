@@ -7,7 +7,7 @@
 
 - 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
 - 🤝 I'm looking to collaborate and discuss exciting tech. 
-- 🎯 2022 Goals: Contribute more to Open Source projects than 2021.
+- 🎯 2023 Goals: Contribute more to Open Source projects than 2022.
 - ☕ Coffee with Kernels. (-_-)
 - <img src="Arsenal.png" width="20px"> Football/Soccer.
 - Better viewing experience in light mode.
