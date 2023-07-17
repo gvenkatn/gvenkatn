@@ -5,7 +5,7 @@
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
 <p align="center"> <img src="exp1font.gif" width="350" >
 
-### Wish to optimize your software solutions? 
+### 🪔Wish to optimize your software solutions?🧞‍♂️  
 ### ✨You're in luck! You've come to the right place!✨
 
 
@@ -17,11 +17,11 @@
 - ☕ Java, Python and C++
 - <img src="Arsenal.png" width="20px"> Football/Soccer.
 - Better viewing experience in light mode.
-### Connect with me: 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### <p align="center"> Connect with me: 
+[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -31,4 +31,3 @@
 [instagram]: https://instagram.com/gvenkatnarayan
 [linkedin]: https://linkedin.com/in/venkatng
 </br>
-![](https://komarev.com/ghpvc/?username=gvenkatn)
