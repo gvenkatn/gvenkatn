@@ -6,7 +6,7 @@
 <p align="center"> <img src="exp1font.gif" width="350" >
 
 ### Wish to Optimize your Software Solutions?🧞‍♂️  
-### ✨You're in luck! You've come to the right place!✨
+### ✨You're in Luck! You've come to the right place!✨
 
 
 - 🤝 I'm looking to collaborate, discuss exciting tech and solve intricate problems.
