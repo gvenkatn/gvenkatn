@@ -5,7 +5,7 @@
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
 <p align="center"> <img src="exp1font.gif" width="350" >
 
-### nbsp Wish to optimize your software solutions?🧞‍♂️  
+### Wish to Optimize your Software Solutions?🧞‍♂️  
 ### ✨You're in luck! You've come to the right place!✨
 
 
@@ -19,15 +19,12 @@
 - Better viewing experience in light mode.
 
 ### <p align="center"> Connect with me: 
-[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<p align = "center">
+<a href="https://gvenkatn.github.io/portfolio/contact.html"><img align="center" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://linkedin.com/in/venkatng"><img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://instagram.com/gvenkatnarayan"><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
 <br />
-
-
-[website]: https://gvenkatn.github.io/portfolio/
-[instagram]: https://instagram.com/gvenkatnarayan
-[linkedin]: https://linkedin.com/in/venkatng
 </br>
