@@ -5,7 +5,7 @@
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
 <p align="center"> <img src="exp1font.gif" width="350" >
 
-### 🪔Wish to optimize your software solutions?🧞‍♂️  
+### Wish to optimize your software solutions?🧞‍♂️  
 ### ✨You're in luck! You've come to the right place!✨
 
 
