@@ -5,10 +5,16 @@
 ## <p align="center"> Developer by Day🌅 || Engineer by Night 🌇
 <p align="center"> <img src="exp1font.gif" width="350" >
 
-- 🎓 I’m currently studying Electronics and Communications Engineering in NIT Warangal 
-- 🤝 I'm looking to collaborate and discuss exciting tech. 
-- 🎯 2023 Goals: Contribute more to Open Source projects than 2022.
-- ☕ Coffee with Kernels. (-_-)
+### Wish to optimize your software solutions? 
+### ✨You're in luck! You've come to the right place!✨
+
+
+- 🤝 I'm looking to collaborate, discuss exciting tech and solve intricate problems.
+- <a href="https://linkedin.com/in/venkatng">Connect</a> With Me to discuss on LLD, HLD, Development, Testing, Bug Fixing and More. 
+- 🎯 2023 Goals: Provide Efficient Software Solutions and Solve more Indusrty Problems.
+- 💻 2021-2023 Software Engineer in <a href="https://www.hclindustrysaas.com/telecom-5g/augmented-network-automation">ANA</a> Team of HCL Technogloies.
+- 🎓 2017-2021 Bachelor of Technology in Electronics and Communications Engineering at NIT Warangal 
+- ☕ Java, Python and C++
 - <img src="Arsenal.png" width="20px"> Football/Soccer.
 - Better viewing experience in light mode.
 ### Connect with me: 
@@ -21,8 +27,8 @@
 <br />
 
 
-[website]: https://vnkt777.nicepage.io
+[website]: https://gvenkatn.github.io/portfolio/
 [instagram]: https://instagram.com/gvenkatnarayan
-[linkedin]: https://linkedin.com/in/vnkt777
+[linkedin]: https://linkedin.com/in/venkatng
 </br>
-![](https://komarev.com/ghpvc/?username=VNKT777)
+![](https://komarev.com/ghpvc/?username=gvenkatn)
