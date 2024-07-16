@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking to collaborate, discuss exciting tech and solve intricate problems.
 - <a href="https://linkedin.com/in/venkatng">Connect</a> With Me to discuss on LLD, HLD, Development, Testing, Bug Fixing and More. 
-- 🎯 2023 Goals: Provide Efficient Software Solutions and Solve more Indusrty Problems.
+- 🎯 2024 Goals: Provide Efficient Software Solutions and Solve more Indusrty Problems.
 - 💻 2021-2023 Software Engineer in <a href="https://www.hclindustrysaas.com/telecom-5g/augmented-network-automation">ANA</a> Team of HCL Technogloies.
 - 🎓 2017-2021 Bachelor of Technology in Electronics and Communications Engineering at NIT Warangal 
 - ☕ Java, Python, C++ and More
@@ -26,5 +26,5 @@
 <a href="https://instagram.com/gvenkatnarayan"><img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 
-<br />
+<br/>
 </br>
